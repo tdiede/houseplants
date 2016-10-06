@@ -6,3 +6,4 @@ Houseplants.
 
 React.
 
+![Background](img/plant.png)
